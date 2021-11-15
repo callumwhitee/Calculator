@@ -1,0 +1,6 @@
+
+Calculator Project
+
+Use JSON files to store settings // learn about using json files in c#
+
+use a package for Calculator?
